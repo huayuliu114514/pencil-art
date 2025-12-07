@@ -13,20 +13,19 @@ Convert video/animation frames into Louvre-style colored images using Python.
 ## 📂 示例效果（Examples）
 
 ### 🎴 Setsuna 示例
-原图：
-<img src="examples/input/setsuna.png" width="45%">
 
-效果图：
-<img src="examples/output/setsuna_output.png" width="45%">
+<img src="examples/input/setsuna.png" width="100%">
+
+<img src="examples/output/setsuna_output.png" width="100%">
 
 ---
 
 ### 🎴 Kamome 示例
-原图：
-<img src="examples/input/kamome.png" width="45%">
 
-效果图：
-<img src="examples/output/kamome_output.png" width="45%">
+<img src="examples/input/kamome.png" width="100%">
+
+
+<img src="examples/output/kamome_output.png" width="100%">
 
 ---
 
